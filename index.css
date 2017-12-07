@@ -31,3 +31,8 @@ img { border:dotted;
   width: 150px;
 }
 
+.unfinished {
+  color:black;
+  text-decoration:none;
+}
+
