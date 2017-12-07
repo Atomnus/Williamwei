@@ -3,13 +3,13 @@ body {
 }
 p {
   color: blue;
-  font-family:sans-serif;
+  font-family:fantasy;
 }
 h1 {
   font-weight: bold;
 }
 
 .secret3 {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
