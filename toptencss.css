@@ -3,7 +3,7 @@ body {
 }
 p {
   color: blue;
-  font:fantasy;
+  font-family:fantasy;
 }
 h1 {
   font-weight: bold;
