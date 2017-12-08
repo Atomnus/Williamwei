@@ -1,4 +1,4 @@
-body {
+uebody {
   background: turquoise;
 }
 p {
@@ -10,6 +10,6 @@ h1 {
 }
 
 .secret3 {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
