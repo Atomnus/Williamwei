@@ -4,7 +4,11 @@ text-decoration:none
 }
 
 body {
-color:gray;
+background:gray;
+}
+
+h2 {
+  color:blue;
 }
 
 p {
