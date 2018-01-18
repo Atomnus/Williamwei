@@ -2,6 +2,11 @@ body {
   background: turquoise;
 }
 
+.vipp {
+  color:turquoise;
+  text-decoration:none;
+}
+
 .vip {
   color:black;
   text-decoration:none;
