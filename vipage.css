@@ -5,3 +5,8 @@ background:lightgreen;
 p {
 color:blue;
 }
+
+.homelink {
+  color:black;
+  text-decoration:none;
+}
